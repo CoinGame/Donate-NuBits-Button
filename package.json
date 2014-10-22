@@ -1,5 +1,5 @@
 {
-	"name": "bitcoinate",
+	"name": "donate-nubits",
 	"version": "0.2.1",
 	"devDependencies": {
 		"nib": "~0.9.1",

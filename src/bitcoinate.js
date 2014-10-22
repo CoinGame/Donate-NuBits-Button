@@ -10,8 +10,8 @@
 
 	document.addEventListener('DOMContentLoaded', function() {
 
-		var buttons = document.getElementsByClassName('bitcoinate'),
-			sentence = 'Please donate bitcoins to: ',
+		var buttons = document.getElementsByClassName('donate-nubits'),
+			sentence = 'Please donate NuBits to: ',
 			data,
 			i
 
@@ -19,13 +19,13 @@
 
 			buttons[i].title = sentence + buttons[i].dataset.address
 
-			buttons[i].innerHTML = '<span></span>bitcoinate'
+			buttons[i].innerHTML = '<span></span>donate-nubits'
 
 			buttons[i].addEventListener('click', function() {
 				data = this.dataset
 
 				if(data.type == 'URI')
-					window.location.href = 'bitcoin:' + data.address
+					window.location.href = 'NuBits:' + data.address
 						+ '?amount=' + data.address
 						+ '&label=' + data.label
 				else
