@@ -3,14 +3,18 @@
 
 Donate-NuBits button is a very simple button users can click on your website to display a NuBits address. It's easy to copy/paste this address and send a donation. Only one size is available right now. Make sure to change ```<Insert Donation Address Here>``` with your NuBits address.
 
-Javascript - put this in your header
+Javascript - put this in your head section
 ```
 <script src="https://cdn.rawgit.com/CoinGame/Donate-NuBits-Button/nuv1.0/bitcoinate.min.js"></script>
 ```
-HTML - put this where you want the button to show up
+HTML - put this in the body where you want the button to show up (remember to update data-address with your NuBits address
 ```
 <button class="donate-nubits" data-size="50" data-address="<Insert Donation Address Here>">Donate Nubits</button>
 ```
+
+The button will look like this:
+
+[Imgur](http://i.imgur.com/x17S6Ct.png)
 
 
 #Bitcoinate info
