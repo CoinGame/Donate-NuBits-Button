@@ -1,4 +1,14 @@
-#bitcoinate
+#donate-nubits
+
+
+
+Javascript - put this in your header
+<script src="https://cdn.rawgit.com/CoinGame/Donate-NuBits-Button/main/bitcoinate.min.js"></script>
+
+HTML - put this where you want the button to show up
+
+<button class="donate-nubits" data-size="30" data-address="1LFk8i74MTBEKfViAfvKsbX4mG2iFfRiBF">Donate Nubits</button>
+
 
 [Bitcoinate](http://bitcoinate.org) helps you to get supported by providing a simple,
 appealing and secure solution to receive bitcoin Donations.
