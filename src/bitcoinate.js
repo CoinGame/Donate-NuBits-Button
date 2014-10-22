@@ -19,7 +19,7 @@
 
 			buttons[i].title = sentence + buttons[i].dataset.address
 
-			buttons[i].innerHTML = '<span></span>donate-nubits'
+			buttons[i].innerHTML = '<span></span>Donate NuBits'
 
 			buttons[i].addEventListener('click', function() {
 				data = this.dataset

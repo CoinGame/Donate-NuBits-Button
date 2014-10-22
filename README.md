@@ -8,7 +8,7 @@ Javascript - put this in your header
 ```
 HTML - put this where you want the button to show up
 ```
-<button class="donate-nubits" data-size="30" data-address="<Insert Donation Address Here>">Donate Nubits</button>
+<button class="donate-nubits" data-size="50" data-address="<Insert Donation Address Here>">Donate Nubits</button>
 ```
 
 [Bitcoinate](http://bitcoinate.org) helps you to get supported by providing a simple,
