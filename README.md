@@ -1,7 +1,7 @@
 #donate-nubits
 
 
-Donate-NuBits button is a very simple button users can click on your website to display a NuBits address. It's easy to copy/paste this address and send a donation. Only one size is available right now. Mave sure to change '<Insert Donation Address Here>' with your NuBits address.
+Donate-NuBits button is a very simple button users can click on your website to display a NuBits address. It's easy to copy/paste this address and send a donation. Only one size is available right now. Make sure to change ```<Insert Donation Address Here>``` with your NuBits address.
 
 Javascript - put this in your header
 ```
