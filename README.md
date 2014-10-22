@@ -14,7 +14,7 @@ HTML - put this in the body where you want the button to show up (remember to up
 
 The button will look like this:
 
-[Imgur](http://i.imgur.com/x17S6Ct.png)
+![Imgur](http://i.imgur.com/x17S6Ct.png)
 
 
 #Bitcoinate info
